@@ -44,7 +44,7 @@ The goal of this project is to find the best locations for developing new oil we
 
 **Model Performance by Region:**
 - **Region 0**: The linear regression model achieved a predicted average volume of 92.5 thousand barrels with an RMSE of 37.6 thousand barrels.
--**Region 1:** The model performed better with a predicted average volume of 68.8 thousand barrels and an RMSE of 0.89 thousand barrels, indicating low prediction error.
+- **Region 1:** The model performed better with a predicted average volume of 68.8 thousand barrels and an RMSE of 0.89 thousand barrels, indicating low prediction error.
 - **Region 2:** Predictions resulted in an average volume of 94.9 thousand barrels with an RMSE of 40.0 thousand barrels.
 
 **Profit Calculation Analysis:**
