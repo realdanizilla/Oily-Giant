@@ -2,23 +2,14 @@
 
 ## Table of Contents
 
-- [Project Objective](#project-objective)
-- [Project Structure and Steps](#project-structure-and-steps)
-  - [1. Data Preparation](#1-data-preparation)
-  - [2. Model Training and Validation](#2-model-training-and-validation)
-  - [3. Profit Calculation Preparation](#3-profit-calculation-preparation)
-  - [4. Calculating Profit for Selected Wells](#4-calculating-profit-for-selected-wells)
-  - [5. Risk and Profit Analysis](#5-risk-and-profit-analysis)
-- [Tools and Techniques Utilized](#tools-and-techniques-utilized)
-- [Specific Results and Outcomes](#specific-results-and-outcomes)
-  - [Data Preparation and Feature Engineering](#data-preparation-and-feature-engineering)
-  - [Model Performance by Region](#model-performance-by-region)
-  - [Profit Calculation Analysis](#profit-calculation-analysis)
-  - [Selection of Top Wells](#selection-of-top-wells)
-  - [Profit and Risk Estimation Using Bootstrapping](#profit-and-risk-estimation-using-bootstrapping)
-- [Final Recommendations](#final-recommendations)
-- [Key Observations](#key-observations)
-- [What I Have Learned from This Project](#what-i-have-learned-from-this-project)
+- [Oily Giant Oil Drilling](#oily-giant-oil-drilling)
+  - [Table of Contents](#table-of-contents)
+  - [Project Objective](#project-objective)
+  - [Project Structure and Steps](#project-structure-and-steps)
+  - [Tools and Techniques Utilized](#tools-and-techniques-utilized)
+  - [Specific Results and Outcomes](#specific-results-and-outcomes)
+  - [What I Have Learned from This Project](#what-i-have-learned-from-this-project)
+  - [How to Use This Repository](#how-to-use-this-repository)
 
 ## Project Objective
 
@@ -117,5 +108,23 @@ The goal of this project is to find the best locations for developing new oil we
 - **Model Training and Evaluation**: Developed strong skills in building and validating regression models to predict numerical outcomes.
 - **Profit Calculation and Risk Analysis**: Gained experience in calculating potential profits and evaluating risks using statistical techniques such as bootstrapping.
 - **Business-Oriented Decision Making**: Learned to integrate data science techniques with business conditions to make informed decisions on investment and development strategies.
+
+[back to top](#oily-giant-oil-drilling)
+
+## How to Use This Repository
+
+1. **Clone the Repository**  
+   Clone this repository to your local environment:
+[https://github.com/realdanizilla/Oily-Giant.git](https://github.com/realdanizilla/Oily-Giant.git)
+
+2. **Explore Notebooks and Data**  
+Open Jupyter notebooks for data exploration, preprocessing, and model development. Review the CSV data files containing oil well metrics.
+
+3. **Run Analysis and Predictions**  
+Execute the provided notebook to train predictive models, calculate potential profits, and evaluate risk.
+
+4. **Visualize Results**  
+Use the analysis results to determine the optimal region for investment based on profitability and risk assessment.
+
 
 [back to top](#oily-giant-oil-drilling)
